@@ -1,0 +1,1 @@
+A simple browser weather app: open home.html to view the UI, inspect script.js for the fetch/display logic (replace the hard‑coded OpenWeatherMap API key before sharing), and review style.css for layout and hourly-item styling — together these files implement the city input, Search button, current-weather display with icon, and a horizontally scrollable hourly forecast.
